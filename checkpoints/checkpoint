@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Daniel\\Documents\\GitHub\\NeuralNetworks\\checkpoints/mnist_model.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\Daniel\\Documents\\GitHub\\NeuralNetworks\\checkpoints/mnist_model.ckpt"
